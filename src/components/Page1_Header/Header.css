@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url(../../assets/fonts/OpenSans-SemiBold.ttf) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+.page1_header {
+    width: 100%;
+    margin: 6.125rem 0 3.729rem 2.25rem;
+}
+
+.page1_img {
+    width: 9.75rem;
+    height: 2.063rem;
+    margin: 0 0 0.625rem 0;
+}
+
+.page1_title {
+    width: auto;
+    font-family: "OpenSans";
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: white;
+}

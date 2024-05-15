@@ -1,0 +1,25 @@
+.page1 {
+    width: 100%;
+    height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
+    margin: 0;
+    padding: 0;
+
+    background-image: url(../assets/img/detailpage_1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: grid;
+    grid-template: 1fr 2fr / 1fr;
+}
+
+.section {
+    width: 100%;
+    height: 100%;
+}
+
+.buttons {
+    width: auto;
+    height: auto;
+    margin: 3.833rem 0 0 0;
+}
