@@ -13,9 +13,9 @@ function Page1(){
             <Header/>
             <div class="section">
                 <div className="buttons">
-                    <Button text="Study 펼쳐보기"/>
-                    <Button text="Project 펼쳐보기"/>
-                    <Button text="Seminar 펼쳐보기"/>
+                    <Button address="/study" text="Study 펼쳐보기"/>
+                    <Button address="/project" text="Project 펼쳐보기"/>
+                    <Button address="/seminar" text="Seminar 펼쳐보기"/>
                 </div>
             </div>
         </div>
